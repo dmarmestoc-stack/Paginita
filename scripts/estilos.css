@@ -1,0 +1,55 @@
+header{
+    background-color: #c3a1fe;
+    padding: 20px;
+    text-align: center;
+    color: blueviolet;
+}
+header h1{
+    font-family:'Imperial Script', cursive;
+    text-align: center;
+    margin: 0;
+    font-size: 36px;
+    color: rgb(244, 245, 244);
+}
+nav a{
+    display: flexbox;
+    text-align: center;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: blueviolet;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #856fe8;
+    margin: 10px;
+    padding: 0;
+
+}
+nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px;
+    padding: 10px 16px;
+    background-color: #fdfbd4;
+
+}
+body h2{
+    font-family: 'Grand Hotel', cursive;
+    text-align: center;
+    margin: 0;
+    font-size: 36px;
+    color: rgb(244, 245, 244);
+}
+body{
+     font-family: Arial, Helvetica, sans-serif;
+     color: rgb(244, 245, 244);
+}
+.imagen{
+    position: absolute;
+    left: 565px;
+    width: 400px;
+    height: 350px;
+    
+}
